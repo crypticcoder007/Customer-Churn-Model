@@ -66,7 +66,7 @@ In Task 2, we calculate the Weight of Evidence (WoE) and Information Value (IV) 
 
 ### Task 3: Model Deployment and Selection
 
-In Task 3, we deploy different machine learning models using the selected features and evaluate their performance. By comparing the accuracy of various models, we select the one that yields the highest accuracy for predicting customer churn.
+In Task 3, we deploy different machine learning models using the selected features and evaluate their performance. By comparing the accuracy of various models, we select the one that yields the highest accuracy for predicting customer churn. In this project, multiple models have been trained and evaluated to predict customer churn. By comparing the accuracy of these different models, the one that yields the highest accuracy for predicting customer churn has been identified and included in the repository.
 
 Accurate customer churn predictions enable informed decision-making and facilitate the development of effective strategies to enhance customer retention and drive business growth.
 
