@@ -1,2 +1,9 @@
-Description about the data
-  
+Data Description
+
+The provided dataset consists of the following files:
+
+Churn Model - Master Sheet: This CSV file contains all the features that have been recorded from customers. It serves as the comprehensive dataset for the churn prediction task, encompassing a wide range of variables.
+Master Sheet (filtered features): This file contains a subset of features that have been deemed relevant and useful for the customer churn prediction task. It includes a refined selection of variables that have shown significant predictive power.
+woe_NACH1/2/3: These files contain the calculated Weight of Evidence (WoE) values specifically for the NACH (National Automated Clearing House) variables. WoE provides insights into the predictive strength of each NACH feature, aiding in the accurate identification of customer churn.
+
+The dataset provides a rich and diverse set of customer-related information, enabling the development of a robust churn prediction model. By leveraging this data, businesses can gain valuable insights into customer behavior and make informed decisions to mitigate churn and improve customer retention.
