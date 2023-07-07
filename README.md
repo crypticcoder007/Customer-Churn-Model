@@ -58,6 +58,8 @@ This project focuses on the following tasks to develop an effective churn predic
 
 The first task involves identifying which among the engagement, enrichment, profile, and sales features are most helpful in predicting customer churn. By evaluating this we can get an understanding of what kind of features are most detrimental in customer churn.
 
+This repository contains four Jupyter Notebook files, namely Engagement.ipynb, Enrichment.ipynb, Profile.ipynb, and Sales.ipynb. Each notebook focuses on analyzing a specific set of features to determine their effectiveness in predicting customer churn. It is important to note that the primary objective of these notebooks is to compare the relative accuracy among the four types of features, rather than achieving the highest absolute accuracy.
+
 ### Task 2: Feature Selection using Weight of Evidence (WoE) and Information Value (IV)
 
 In Task 2, we calculate the Weight of Evidence (WoE) and Information Value (IV) for each variable individually. This analysis helps us determine the best feature for our machine learning classification task. WoE and IV provide valuable insights into the predictive strength of each feature and their overall contribution to the model's accuracy.
